@@ -9,4 +9,4 @@ for x in range(720):
     t.pencolor(colors[x%6])
     t.width(x/100 + 1)
     t.forward(x)
-    t.left(29)
+    t.left(69)
